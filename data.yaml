@@ -1,0 +1,6 @@
+path: X:/B TECH - 8 SEMS MATERIALS/Sixth Semester/IoT/Fall-Detection-main
+train: images/train
+val: images/val
+
+names:
+  0: fallen_person
