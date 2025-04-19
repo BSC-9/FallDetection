@@ -3,7 +3,7 @@ import cvzone
 import math
 from ultralytics import YOLO
 
-cap = cv2.VideoCapture('fall.mp4')
+cap = cv2.VideoCapture('check.mp4')
 
 model = YOLO('yolov8s.pt')
 
